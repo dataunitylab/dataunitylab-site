@@ -36,5 +36,5 @@ url_slides: "https://speakerdeck.com/michaelmior/nose-schema-design-for-nosql-ap
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["nose"]
 ---
