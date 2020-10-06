@@ -1,5 +1,6 @@
 ---
-title: "NoSE: NoSQL Schema Evaluator"
+title: NoSE
+subtitle: NoSQL Schema Evaluator
 summary: Automated schema design for NoSQL databases.
 date: "2020-10-06:00:00Z"
 
