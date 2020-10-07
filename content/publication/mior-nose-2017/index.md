@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NoSE: Schema Design for NoSQL Applications"
-authors: ["Michael J. Mior", "Kenneth Salem", "Ashraf Aboulnaga", "Rui Liu"]
+authors: ["michaelmior", "Kenneth Salem", "Ashraf Aboulnaga", "Rui Liu"]
 date: 2017-07-03T00:00:00-04:00
 doi: "10.1109/TKDE.2017.2722412"
 
