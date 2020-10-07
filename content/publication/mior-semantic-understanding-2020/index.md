@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Semantic Data Understanding with Character Level Learning"
-authors: ["Michael J. Mior", "Ken Q. Pu"]
+authors: ["michaelmior", "Ken Q. Pu"]
 date: 2020-08-13T00:00:00-04:00
 doi: "10.1109/IRI49571.2020.00043"
 
