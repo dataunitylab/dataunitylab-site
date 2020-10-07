@@ -10,23 +10,23 @@ url_slides: "https://speakerdeck.com/michaelmior/nose-schema-design-for-nosql-ap
 
 ---
 
-# Abstract
+## Abstract
 
 Database design is critical for high performance in relational databases and many tools exist to aid application designers in selecting an appropriate schema. While the problem of schema optimization is also highly relevant for Apache Cassandra, existing tools for relational databases are inadequate for this setting. Application designers wishing to use Cassandra instead rely on rules of thumb to select an appropriate schema. These rules can be challenging to apply without experience because they are often vague or contradictory. NoSE, an automated solution to Cassandra schema design, attempts to avoid these pitfalls.
 
-# Introduction
+## Introduction
 
 NoSE is a system for recommending database schemas for Cassandra applications. Our cost-based approach uses a novel integer linear programming formulation to guide the mapping from a simple model of the application workload to a database schema
 
 Our prototype is able to implicitly capture rules of thumb used by expert designers without explicitly encoding the rules. Automating the design process allows NoSE to produce efficient schemas and to examine more alternatives than would be possible with a manual rule-based approach.
 
-# Rule-based Schema Design
+## Rule-based Schema Design
 
 Many experts in Cassandra data modeling have released [guidelines](http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling) on how to best design schemas. These guidelines suggest that schemas should be modeled very differently from a relational database and emphasize the importance of relying on knowledge of queries which will be issued by the application.
 
 This results in denormalization and data duplication in order to improve the performance of reads. In common deployment scenarios, writes are inexpensive in Cassandra and this denormalization results in improved performance across the entire application workload. However, when the workload becomes  complex, using a CQL table for each query can result in expensive updates and heavy storage utilization
 
-# Automating Schema Design
+## Automating Schema Design
 
 To avoid the complexity of manually attempting to satisfy the conflicting requirements inherent in rule-based schema design, NoSE attempts to automate this process. This automation consists of three steps:
 
