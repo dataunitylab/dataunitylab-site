@@ -15,6 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Rochester Institute of Technology
+  url: "https://rit.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jrn1325@rit.edu"

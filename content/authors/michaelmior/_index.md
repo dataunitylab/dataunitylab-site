@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Rochester Institute of Technology
-  url: "https://michael.mior.ca/"
+  url: "https://rit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on data integration and understanding for non-relational data.
