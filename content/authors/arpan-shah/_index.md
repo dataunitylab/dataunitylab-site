@@ -4,7 +4,7 @@ title: Arpan Shah
 
 # Username (this should match the folder name)
 authors:
-- arpanshah
+- arpan-shah
 
 # Is this the primary user of the site?
 superuser: false

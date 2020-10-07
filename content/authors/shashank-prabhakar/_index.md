@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tao Yang
+title: Shashank Prabhakar
 
 # Username (this should match the folder name)
 authors:
-- taoyang
+- shashank-prabhakar
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,9 +16,6 @@ role: MSc Capstone Student
 organizations:
 - name: Rochester Institute of Technology
   url: "https://rit.edu"
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "txy2539@rit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

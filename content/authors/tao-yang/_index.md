@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Akash Desai
+title: Tao Yang
 
 # Username (this should match the folder name)
 authors:
-- akashdesai
+- tao-yang
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: "https://rit.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ad3059@rit.edu"
+email: "txy2539@rit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

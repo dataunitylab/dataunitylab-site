@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sagar Khanna
+title: Ishan Shah
 
 # Username (this should match the folder name)
 authors:
-- sagarkhanna
+- ishan-shah
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: "https://rit.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sk6921@rit.edu"
+email: "ixs2025@rit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
