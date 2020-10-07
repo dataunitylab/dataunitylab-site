@@ -29,7 +29,6 @@ categories: []
 featured: false
 
 url_code: "https://github.com/michaelmior/NoSE.git"
-url_slides: "https://speakerdeck.com/michaelmior/nose-schema-design-for-nosql-applications"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
