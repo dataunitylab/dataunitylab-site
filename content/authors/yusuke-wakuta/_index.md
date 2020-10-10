@@ -1,24 +1,21 @@
 ---
 # Display name
-title: Sagar Khanna
+title: Yusuke Wakuta
 
 # Username (this should match the folder name)
 authors:
-- sagar-khanna
+- yusuke-wakuta
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Capstone Student
+role: Visiting MSc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Rochester Institute of Technology
-  url: "https://rit.edu"
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sk6921@rit.edu"
+- name: Osaka University
+  url: "https://www.osaka-u.ac.jp/en"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
