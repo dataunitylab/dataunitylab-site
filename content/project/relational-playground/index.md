@@ -5,7 +5,7 @@ summary: A learning environment for exploring the connection between relational 
 date: "2022-10-25:00:00Z"
 
 links:
-url_code: "https://github.com/michaelmior/relational-plaground.git"
+url_code: "https://github.com/michaelmior/relational-playground.git"
 
 ---
 
