@@ -18,7 +18,12 @@ organizations:
   url: "https://rit.edu"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jrn1325@rit.edu"
+email: "sw2582@rit.edu"
+
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/shuangwei123
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
