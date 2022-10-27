@@ -39,11 +39,6 @@ content:
     longitude: '-77.68006755422138'
   directions: Enter Golisano Hall and take the stairs to office 3517 on the third floor
   appointment_url: 'https://michael.mior.ca/contact/'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/michaelmior'
 
 design:
   columns: '2'

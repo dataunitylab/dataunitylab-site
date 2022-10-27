@@ -13,7 +13,6 @@ title: Meet the Team
 
 content:
   user_groups:
-  - Principal Investigators
   - Researchers
   - Grad Students
   - Administration
