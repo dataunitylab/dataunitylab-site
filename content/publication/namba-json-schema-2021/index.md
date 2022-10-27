@@ -32,5 +32,5 @@ url_slides: "https://vldb.org/2021/files/slides/phd/JustinNamba.pdf"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["json-schema-inference"]
 ---
