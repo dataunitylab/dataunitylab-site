@@ -21,6 +21,8 @@ interests:
 - NoSQL Databases
 - Data Integration
 - Open Data
+- Semi-structured Data
+- Semantic Type Analysis
 
 # Education to show in About widget
 education:
