@@ -2,6 +2,7 @@
 title: JSON Schema Inference
 subtitle: Meaningful schema information for semi-structured data
 date: "2022-10-27T00:00:00Z"
+authors: [admin, justin-namba]
 
 ---
 

@@ -3,6 +3,7 @@ title: NoSE
 subtitle: NoSQL Schema Evaluator
 summary: Automated schema design for NoSQL databases.
 date: "2020-10-06T00:00:00Z"
+authors: [admin, yusuke-wakuta]
 
 links:
 url_code: "https://github.com/michaelmior/NoSE.git"

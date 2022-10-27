@@ -1,6 +1,7 @@
 ---
 title: Semantic Type Analysis
 date: "2022-10-27T00:00:00Z"
+authors: [admin, shuang-wei]
 
 ---
 
