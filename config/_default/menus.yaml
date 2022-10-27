@@ -22,6 +22,9 @@ main:
   - name: People
     url: '#people'
     weight: 60
+  - name: Past Students
+    parent: People
+    url: past-students
   - name: Contact
     url: '#contact'
     weight: 70
