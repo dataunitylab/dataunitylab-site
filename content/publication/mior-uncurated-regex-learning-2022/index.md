@@ -29,6 +29,8 @@ tags: []
 categories: []
 featured: true
 
+url_pdf: https://arxiv.org/pdf/2206.06747.pdf
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
