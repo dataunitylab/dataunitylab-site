@@ -1,6 +1,6 @@
 ---
 title: Semantic Type Analysis
-date: "2022-10-27:00:00Z"
+date: "2022-10-27T00:00:00Z"
 
 ---
 

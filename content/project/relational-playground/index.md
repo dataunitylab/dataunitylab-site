@@ -2,7 +2,7 @@
 title: Relational Playground
 subtitle: An exploration of relational algebra
 summary: A learning environment for exploring the connection between relational algebra and SQL.
-date: "2022-10-25:00:00Z"
+date: "2022-10-25T00:00:00Z"
 
 links:
 url_code: "https://github.com/michaelmior/relational-playground.git"
