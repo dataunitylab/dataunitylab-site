@@ -11,10 +11,14 @@ weight: 20
 
 title: Meet the Team
 
+design:
+  show_organizations: true
+
 content:
   user_groups:
   - Researchers
   - Grad Students
   - Administration
   - Visitors
+  - Collaborators
 ---

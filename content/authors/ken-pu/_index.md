@@ -1,21 +1,17 @@
 ---
 # Display name
-title: Pablo Suárez-Otero
-
-# Username (this should match the folder name)
-authors:
-- pablo-suarez-otero
+title: Ken Pu
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: PhD Student
+# Role/position/tagline
+role: Associate Professor
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oviedo
-  url: "https://www.uniovi.es/en/inicio"
+- name: Ontario Tech University
+  url: "https://ontariotechu.ca/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
