@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: "Principal Investigator"
+title: "Lab Director"
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
