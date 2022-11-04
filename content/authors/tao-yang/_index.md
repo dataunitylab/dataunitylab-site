@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Capstone Student
+role: "MSc Capstone Student<br>Software Engineer at Zendesk"
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,11 @@ email: "txy2539@rit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tao-yang-845813149/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

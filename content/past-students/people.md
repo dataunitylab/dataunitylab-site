@@ -10,6 +10,9 @@ weight: 20
 
 title: Past Students
 
+design:
+  show_social: true
+
 content:
   user_groups:
   - Past Students

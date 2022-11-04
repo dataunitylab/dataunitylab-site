@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Thesis Student
+role: "MSc Thesis Student<br>Senior Associate Software Engineer at L3Harris Technologies"
 
 # Organizations/Affiliations
 organizations:
@@ -19,6 +19,11 @@ organizations:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/goldymalhotra/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
