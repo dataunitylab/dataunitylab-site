@@ -24,6 +24,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jrn1325
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/justin-r-namba-097965151/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
