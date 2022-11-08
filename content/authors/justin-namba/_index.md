@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Justin Namba 
+title: Justin Namba
 
 # Username (this should match the folder name)
 authors:
