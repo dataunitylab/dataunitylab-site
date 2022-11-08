@@ -29,7 +29,10 @@ social:
     link: https://www.linkedin.com/in/justin-r-namba-097965151/
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
+
+interests:
+  - JSON schema discovery
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

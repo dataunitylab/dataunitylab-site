@@ -12,6 +12,7 @@ weight: 20
 title: Meet the Team
 
 design:
+  show_interests: true
   show_organizations: true
 
 content:
