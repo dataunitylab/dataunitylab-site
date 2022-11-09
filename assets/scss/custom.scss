@@ -1,3 +1,9 @@
+// Change the color of active menu items
+.navbar .navbar-nav .nav-link.active {
+  color: #0A4C81 !important;
+}
+
+// Add extra space for people widget
 .people-widget .section-heading {
   margin-bottom: 30px;
 }
