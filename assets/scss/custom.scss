@@ -1,5 +1,6 @@
 // Change the color of active menu items
-.navbar .navbar-nav .nav-link.active {
+.navbar .navbar-nav .nav-link.active,
+.navbar .dropdown-item.active, .navbar .dropdown-item-active {
   color: #0A4C81 !important;
 }
 
