@@ -13,3 +13,22 @@
 .people-person {
   margin-bottom: 30px;
 }
+
+.rit-logo-dark,
+.rit-logo-light {
+  margin: 0 auto 2em;
+}
+
+.rit-logo-dark {
+  display: none;
+}
+
+.dark {
+  .rit-logo-dark {
+    display: block;
+  }
+
+  .rit-logo-light {
+    display: none;
+  }
+}

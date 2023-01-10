@@ -1,0 +1,7 @@
+{{ $darkLogo := resources.Get "media/rit-logo-dark.png" }}
+{{ $darkLogo := $darkLogo.Resize "400x" }}
+<img class="rit-logo-dark" src="{{ $darkLogo.RelPermalink }}" width="{{ $darkLogo.Width }}" height="{{ $darkLogo.Height }}">
+
+{{ $lightLogo := resources.Get "media/rit-logo-light.png" }}
+{{ $lightLogo := $lightLogo.Resize "400x" }}
+<img class="rit-logo-light" src="{{ $lightLogo.RelPermalink }}" width="{{ $lightLogo.Width }}" height="{{ $lightLogo.Height }}">
