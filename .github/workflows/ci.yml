@@ -1,0 +1,34 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        path: 'repo'
+        fetch-depth: 0
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
+    - name: Build
+      run: (cd repo; hugo --gc --minify -b "https://cs.rit.edu/~dataunitylab/")
+    - name: Move deploy to top level
+      run: mv repo/public/* "$GITHUB_WORKSPACE"; rm -rf repo
+    - name: Deploy via rsync
+      uses: easingthemes/ssh-deploy@main
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        ARGS: "-avzr --delete"
+        SOURCE: .
+        REMOTE_HOST: glados.cs.rit.edu
+        REMOTE_USER: dataunitylab
+        TARGET: .
