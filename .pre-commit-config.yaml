@@ -22,6 +22,8 @@ repos:
       - id: typos
 -   repo: https://github.com/thibaudcolas/pre-commit-stylelint
     rev: v15.6.0
+-   repo: https://github.com/thibaudcolas/pre-commit-stylelint
+    rev: v15.4.0
     hooks:
       - id: stylelint
         additional_dependencies:

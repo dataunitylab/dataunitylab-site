@@ -22,7 +22,9 @@ jobs:
     - name: Build
       run: (cd repo; hugo --gc --minify -b "https://cs.rit.edu/~dataunitylab/")
     - name: Move deploy to top level
-      run: mv repo/public/* "$GITHUB_WORKSPACE"; rm -rf repo
+      run: shopt -s dotglob; mv repo/public/* "$GITHUB_WORKSPACE"; rm -rf repo
+    - name: Set .htaccess permissions
+      run: chmod a+r .htaccess
     - name: Deploy via rsync
       uses: easingthemes/ssh-deploy@main
       env:
