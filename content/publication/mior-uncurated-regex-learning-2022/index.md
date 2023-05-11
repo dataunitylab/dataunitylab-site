@@ -23,7 +23,7 @@ As an alternative, we propose learning from a large corpus of manually authored,
 
 To demonstrate the potential effectiveness of our approach, we train a model using the extracted corpus of regular expressions for the class of semantic type classification. While our approach generally yields results that are inferior to the state of the art, our training data is much smaller and simpler and a closer analysis of the performance results suggests this approach holds significant promise. We also demonstrate the possibility of using uncurated regular expressions for unsupervised learning. "
 
-summary: "Discovery of nested data dependencies on semi-structured data sources."
+summary: "Semantic type classification using a large regular expression corpus."
 
 tags: []
 categories: []
