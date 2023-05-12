@@ -4,7 +4,7 @@
 title: "NoSE: Schema design for NoSQL applications"
 authors: ["admin", "Kenneth Salem", "Ashraf Aboulnaga", "Rui Liu"]
 date: 2016-05-17T00:00:00-04:00
-doi: " 10.1109/ICDE.2016.7498239"
+doi: "10.1109/ICDE.2016.7498239"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-06T18:05:15-04:00
