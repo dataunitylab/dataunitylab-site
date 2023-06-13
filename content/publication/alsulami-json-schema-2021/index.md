@@ -16,6 +16,8 @@ publication_types: ["4"]
 
 abstract: "Coming from the wide adoption of JSON schema, this paper is devoted to investigating the use and characteristics of this technology. We collected, prepared, and analyzed 47,610 json files to draw meaningful conclusions for schema developers. Even with polishing of schema versions, version four is the most commonly used among users and string types outnumbers other types in terms of quantity. The majority of errors while validating schemas is due to using new features while refereeing to an older definition of the schema."
 
+url_pdf: uploads/publications/Alsulami2021.pdf
+
 tags: []
 categories: []
 featured: true

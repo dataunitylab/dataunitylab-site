@@ -16,6 +16,8 @@ publication_types: ["4"]
 
 abstract: "In this capstone project, we implement a static class in Python3 with static methods to capture details about the operations - frame metadata - performed on JSON data, log this frame metadata, and match it against target frame metadata to discover examples and scenarios of silent JSON errors in Python3 programs."
 
+url_pdf: uploads/publications/Gadipudi2021.pdf
+
 tags: []
 categories: []
 featured: true
