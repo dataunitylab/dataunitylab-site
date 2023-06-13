@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "MSc Capstone Student"
+role: "MSc Capstone Student<br>Software Engineer at Hewlett Packard Enterprise"
 
 # Organizations/Affiliations
 organizations:
