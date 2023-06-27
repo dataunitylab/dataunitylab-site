@@ -34,3 +34,8 @@ jobs:
         REMOTE_HOST: glados.cs.rit.edu
         REMOTE_USER: dataunitylab
         TARGET: .
+    - name: indexnow-action
+      uses: bojieyang/indexnow-action@v1
+      with:
+        sitemap-location: 'https://cs.rit.edu/~dataunitylab/sitemap.xml'
+        key: ${{ secrets.INDEXNOW_KEY }}
