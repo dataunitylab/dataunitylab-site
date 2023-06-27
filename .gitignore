@@ -12,3 +12,5 @@ go.sum
 # SSH deploy keys
 dul_deploy
 dul_deploy.pub
+
+.lighthouseci/

@@ -1,0 +1,21 @@
+name: Lighthouse
+on: push
+jobs:
+  static-dist-dir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+      - name: Build
+        run: hugo --gc --minify -b "/"
+      - name: Run Lighthouse against a static dist dir
+        uses: treosh/lighthouse-ci-action@v10
+        with:
+          # no urls needed, since it uses local folder to scan .html files
+          configPath: './.lighthouserc.json'
