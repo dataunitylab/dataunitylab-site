@@ -29,7 +29,7 @@ jobs:
       uses: easingthemes/ssh-deploy@main
       env:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        ARGS: "-avzr --delete"
+        ARGS: "-avzr --delete --exclude ${{ secrets.INDEXNOW_KEY }}.txt"
         SOURCE: .
         REMOTE_HOST: glados.cs.rit.edu
         REMOTE_USER: dataunitylab
