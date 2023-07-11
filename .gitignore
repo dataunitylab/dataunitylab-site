@@ -14,3 +14,5 @@ dul_deploy
 dul_deploy.pub
 
 .lighthouseci/
+
+node_modules
