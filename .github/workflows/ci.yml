@@ -23,6 +23,8 @@ jobs:
       run: (cd repo; hugo --gc --minify -b "https://cs.rit.edu/~dataunitylab/")
     - name: Move deploy to top level
       run: shopt -s dotglob; mv repo/public/* "$GITHUB_WORKSPACE"; rm -rf repo
+    - name: Fix index path
+      run: sed -i 's/\/index.json/\/~dataunitylab\/index.json/' en/js/wowchemy.min.*.js
     - name: Set .htaccess permissions
       run: chmod a+r .htaccess
     - name: Deploy via rsync
