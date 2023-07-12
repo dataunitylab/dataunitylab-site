@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 10
 title: Data Unity Lab
-hero_media: welcome.jpg
+hero_media: welcome.webp
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
