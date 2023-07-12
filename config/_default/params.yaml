@@ -38,6 +38,9 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  image:
+    width: 60
+    height: 60
 
 # Site footer
 
