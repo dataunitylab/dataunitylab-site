@@ -1,6 +1,6 @@
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v4.6.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -13,15 +13,15 @@ repos:
       - id: trailing-whitespace
         args: [ --markdown-linebreak-ext=md ]
 -   repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.35.0
+    rev: v0.40.0
     hooks:
       - id: markdownlint-fix
 -   repo: https://github.com/crate-ci/typos
-    rev: typos-dict-v0.10.8
+    rev: v1.21.0
     hooks:
       - id: typos
 -   repo: https://github.com/thibaudcolas/pre-commit-stylelint
-    rev: v15.10.2
+    rev: v16.5.0
     hooks:
       - id: stylelint
         additional_dependencies:
