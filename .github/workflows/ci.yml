@@ -37,7 +37,7 @@ jobs:
         REMOTE_USER: dataunitylab
         TARGET: .
     - name: indexnow-action
-      uses: bojieyang/indexnow-action@v1
+      uses: bojieyang/indexnow-action@v2
       with:
         sitemap-location: 'https://cs.rit.edu/~dataunitylab/sitemap.xml'
         key: ${{ secrets.INDEXNOW_KEY }}
