@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "MSc Capstone Student<br>Software Engineer at Zendesk"
+role: "MSc Capstone Student<br>Senior Software Engineer at Zendesk"
 
 # Organizations/Affiliations
 organizations:

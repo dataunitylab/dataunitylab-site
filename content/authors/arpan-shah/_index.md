@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "MSc Capstone Student<br>Software Engineer at M&T Bank"
+role: "MSc Capstone Student<br>Software Engineer II at M&T Bank"
 
 # Organizations/Affiliations
 organizations:

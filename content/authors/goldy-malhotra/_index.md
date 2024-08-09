@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "MSc Thesis Student<br>Senior Associate Software Engineer at L3Harris Technologies"
+role: "MSc Thesis Student<br>Specialist Software Engineer at L3Harris Technologies"
 
 # Organizations/Affiliations
 organizations:

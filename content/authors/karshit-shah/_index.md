@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "MSc Capstone Student<br>Software Development Engineer at Esri"
+role: "MSc Capstone Student<br>Software Development Engineer II at Esri"
 
 # Organizations/Affiliations
 organizations:
