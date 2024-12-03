@@ -6,7 +6,7 @@ authors: ["bhavin-oza"]
 date: 2024-05-10T00:00:00-04:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-07-20:00:00-04:00
+publishDate: 2024-07-20T00:00:00-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

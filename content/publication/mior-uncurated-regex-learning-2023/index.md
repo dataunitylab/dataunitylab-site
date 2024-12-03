@@ -3,11 +3,11 @@
 
 title: "Learning from Uncurated Regular Expressions"
 authors: ["admin"]
-date: 2023-06-23:00:00:00-04:00
+date: 2023-06-23T00:00:00-04:00
 doi: "10.1145/3596225.3596226"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-06-23:00:00:00-04:00
+publishDate: 2023-06-23T00:00:00-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

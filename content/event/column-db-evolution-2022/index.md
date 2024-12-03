@@ -13,7 +13,7 @@ date_end: 2022-04-07T13:15:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2022-04-07T00:00-04:00
+publishDate: 2022-04-07T00:00:00-04:00
 
 authors: ["pablo-suarez-otero"]
 tags: []
