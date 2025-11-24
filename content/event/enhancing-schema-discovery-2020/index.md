@@ -1,5 +1,5 @@
 ---
-title: Challeges in Enhancing Schema Discovery of JSON Documents
+title: Challenges in Enhancing Schema Discovery of JSON Documents
 event: Research Idea Ring
 event_url: https://rit.zoom.us/meeting/register/tJMtceCorzoqEtL1p3uM96bg-KVLTHfYoB0n
 
